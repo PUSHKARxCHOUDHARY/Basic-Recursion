@@ -1,0 +1,1 @@
+This repository contains solutions to various recursion-based problems implemented in Java. The purpose of this repository is to strengthen recursion concepts, understand recursive thinking, and prepare for coding interviews and DSA practice.
